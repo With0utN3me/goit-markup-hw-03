@@ -35,6 +35,8 @@ list-style-type: none;
     display: flex;
     align-items: center;
     flex-shrink: 0;
+    padding-left: 156px;
+    padding-right: 156px;
 }
 .site-logo {
     font-family: 'Raleway', sans-serif;
@@ -60,7 +62,7 @@ list-style-type: none;
     gap: 40px;
     padding-top: 24px;
     padding-bottom: 24px;
-    padding-right: 332px;
+    padding-right: 50px;
 }
 .nav-link {
     text-decoration: none;
@@ -189,6 +191,7 @@ section.promo-banner {
     justify-content: center;
     align-items: center;
     gap: 24px;
+    padding: 0 156px;
 }
 .team-list-item {
     width: calc((100% - 72px) / 4);
@@ -234,6 +237,7 @@ section.promo-banner {
     align-content: center;
     column-gap: 24px;
     row-gap: 48px;
+    padding: 0 156px;
 }
 .portfolio-list-item {
     width: calc((100% - 48px) / 3);
@@ -260,7 +264,7 @@ section.promo-banner {
 }
 .site-footer {
     background-color: #2e2f42;
-    padding: 100px 0;
+    padding: 100px 0 100px 156px;
 }
 .footer-p {
     color: #F4F4FD;
