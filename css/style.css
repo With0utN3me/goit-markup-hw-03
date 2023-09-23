@@ -35,8 +35,6 @@ list-style-type: none;
     display: flex;
     align-items: center;
     flex-shrink: 0;
-    margin: 0 auto;
-    padding: 0 15px;
 }
 .site-logo {
     font-family: 'Raleway', sans-serif;
